@@ -14,6 +14,7 @@ header h2 {
     color: #CEC8FF;
 }
 
+
 .site footer {
     background-image: linear-gradient(#CEC8FF, white);
     padding: 20px 0;
@@ -54,3 +55,8 @@ header h2 {
 .carousel {
     border: solid #5637DD;
 }
+
+.modal-header {
+background-color: rgb(15, 182, 165);
+}
+
